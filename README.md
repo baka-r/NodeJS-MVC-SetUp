@@ -7,7 +7,9 @@
 - https://nodejs.org/ or later
 - MacOS, Windows (including WSL), and Linux are supported
 
-<!-- ## Step-2 : -  Clone the Repository -->
+## Step-2 : -  Clone the Repository
+
+https://github.com/baka-r/Event-Weave-Backend.git
 
 # Step-3 : - Install Dependencies
 
