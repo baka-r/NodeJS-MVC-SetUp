@@ -1,6 +1,6 @@
 # Event-Weave Backend Installation Guide
 
-## Developer : Techinoid
+## Developer : Bakar-r
 
 ## Step-1 : - Backend Node.js System Requirement and Specifications
 
