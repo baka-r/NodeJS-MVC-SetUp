@@ -1,4 +1,5 @@
-# Event-Weave Backend Installation Guide
+# Node JS Backend Installation Guide
+# Complete Auth + swagger Integration + module approach used
 
 ## Developer : Bakar-r
 
@@ -8,8 +9,6 @@
 - MacOS, Windows (including WSL), and Linux are supported
 
 ## Step-2 : -  Clone the Repository
-
-https://github.com/baka-r/Event-Weave-Backend.git
 
 # Step-3 : - Install Dependencies
 
@@ -38,7 +37,7 @@ JWT_SECRET
 
 ## Step 5: - Restore the data base from the db folder
 
-open postgres and create a data base names Event-Weave and restore the data base with the existing 
+open postgres and create a data base names Data_Base and restore the data base with the existing 
 backup file
 
 #### Step 5: - Run the Backend
